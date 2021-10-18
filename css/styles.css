@@ -1,0 +1,9 @@
+.Banner{
+  background-image: url("../img/austin-moncada-JHMG8eWbTfs-unsplash.jpg");
+  z-index: 1;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:relative;
+}
